@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Singh Chadda
 - 👀 I’m interested in talking about new tech, blockchain, web development, Animation and many more.
-- 🌱 I’m currently learning three js.
+- 🌱 I’m currently learning Solidity and Blockchain development.
 - 💞️ I’m looking to collaborate on Web apps.
 - 📫 My twitter is @AnkitSinghChad2
 
