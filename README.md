@@ -64,15 +64,19 @@ A real-time trading engine in **Node.js/TypeScript** with order matching and a P
 
 <p align="center">
   <a href="https://github.com/Ankitsinghchadda">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankitsinghchadda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" alt="GitHub stats"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankitsinghchadda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Ankit's GitHub stats"/>
   </a>
   <a href="https://github.com/Ankitsinghchadda">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitsinghchadda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top languages"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitsinghchadda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ankitsinghchadda&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankitsinghchadda&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%"/>
 </p>
 
 ---
