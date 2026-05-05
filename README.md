@@ -46,14 +46,14 @@
 
 ### 🌟 Featured Projects
 
-#### 🎬 [SketchMind](https://github.com/247software-ankit-chadda/sketch-mind) — Multi-Agent AI Video Generation
+#### 🎬 [SketchMind](https://github.com/Ankitsinghchadda/sketch-mind) — Multi-Agent AI Video Generation
 > Top finalist in Google Cloud Gen AI Hackathon (APAC 2026)
 
 A distributed multi-agent system that turns any topic into a Manim-animated explainer video. A Researcher → Scriptwriter → Coder pipeline orchestrated with **Google ADK** and **Gemini 2.5 Flash**, deployed across **4 microservices on Google Cloud Run** with Cloud SQL Postgres + pgvector and GCS for video storage. Implements semantic caching on Vertex AI embeddings and a self-healing retry loop where renderer errors feed back into the coder agent.
 
 `Python` `FastAPI` `Google ADK` `Gemini` `pgvector` `Cloud Run`
 
-#### 💱 [Distributed Trading & Settlement System](https://github.com/247software-ankit-chadda)
+#### 💱 [Distributed Trading & Settlement System](https://github.com/Ankitsinghchadda)
 A real-time trading engine in **Node.js/TypeScript** with order matching and a Postgres-backed ledger using strict transaction locking + double-entry accounting to prevent double-spending. Settlement service in **Go + Kafka** processes 100K+ daily events with at-least-once delivery and idempotent consumers.
 
 `Go` `Node.js` `Kafka` `Postgres` `Redis` `WebSockets`
@@ -63,16 +63,16 @@ A real-time trading engine in **Node.js/TypeScript** with order matching and a P
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=247software-ankit-chadda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=247software-ankit-chadda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ankitsinghchadda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitsinghchadda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=247software-ankit-chadda&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Ankitsinghchadda&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=247software-ankit-chadda&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ankitsinghchadda&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
@@ -86,5 +86,5 @@ When I'm not shipping code, I'm reading systems papers, exploring how production
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=247software-ankit-chadda&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Ankitsinghchadda&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views"/>
 </p>
