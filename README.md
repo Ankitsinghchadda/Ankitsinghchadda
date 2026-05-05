@@ -46,7 +46,7 @@
 
 ### 🌟 Featured Projects
 
-#### 🎬 [SketchMind](https://github.com/247software-ankit-chadda/sketchmind) — Multi-Agent AI Video Generation
+#### 🎬 [SketchMind](https://github.com/247software-ankit-chadda/sketch-mind) — Multi-Agent AI Video Generation
 > Top finalist in Google Cloud Gen AI Hackathon (APAC 2026)
 
 A distributed multi-agent system that turns any topic into a Manim-animated explainer video. A Researcher → Scriptwriter → Coder pipeline orchestrated with **Google ADK** and **Gemini 2.5 Flash**, deployed across **4 microservices on Google Cloud Run** with Cloud SQL Postgres + pgvector and GCS for video storage. Implements semantic caching on Vertex AI embeddings and a self-healing retry loop where renderer errors feed back into the coder agent.
